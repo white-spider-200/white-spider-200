@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/Security-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security">
 </p>
 
-<p align="center">
-  <img src="assets/web-divider.png" alt="Spider Web Divider" width="100%">
-</p>
+---
 
 <p align="center">
   <img src="assets/network.gif" alt="Animated Node Network" width="100%">
@@ -62,9 +60,7 @@ creative.engine   :: Godot / Blender
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/web-divider.png" alt="Spider Web Divider" width="100%">
-</p>
+---
 
 <h2 align="center">Now Building</h2>
 
@@ -89,9 +85,7 @@ creative.engine   :: Godot / Blender
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/web-divider.png" alt="Spider Web Divider" width="100%">
-</p>
+---
 
 <h2 align="center">Real Project Showcase</h2>
 
@@ -158,9 +152,7 @@ creative.engine   :: Godot / Blender
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/web-divider.png" alt="Spider Web Divider" width="100%">
-</p>
+---
 
 <h2 align="center">Tech Arsenal</h2>
 
@@ -225,9 +217,7 @@ creative.engine   :: Godot / Blender
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/web-divider.png" alt="Spider Web Divider" width="100%">
-</p>
+---
 
 <h2 align="center">Credibility Matrix</h2>
 
@@ -248,9 +238,7 @@ creative.engine   :: Godot / Blender
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/web-divider.png" alt="Spider Web Divider" width="100%">
-</p>
+---
 
 <h2 align="center">GitHub Analytics</h2>
 
