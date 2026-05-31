@@ -54,7 +54,7 @@ I'm a developer with a passion for **Agentic AI**, **System Design**, and crafti
 
 ---
 
-##### Here's a cool 3D aesthetic (replace this with your own Blender art!):
-| <img width="558" alt="Placeholder" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2459&auto=format&fit=crop"> |
+##### Model Context Protocol (MCP) Showcase:
+| <video src="assets/mcp.mp4" width="558" controls autoplay muted loop></video> |
 | :---: |
-| *I also enjoy 3D modeling and Game Dev in my free time!* |
+| *Showcasing my work with Model Context Protocol!* |
