@@ -55,6 +55,6 @@ I'm a developer with a passion for **Agentic AI**, **System Design**, and crafti
 ---
 
 ##### Model Context Protocol (MCP) Showcase:
-| <video src="assets/mcp.mp4" width="558" controls autoplay muted loop></video> |
+| <img src="assets/mcp.gif" width="558" alt="MCP Showcase Video"> |
 | :---: |
 | *Showcasing my work with Model Context Protocol!* |
