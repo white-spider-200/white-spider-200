@@ -30,6 +30,10 @@
   <img src="assets/web-divider.png" alt="Spider Web Divider" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/network.gif" alt="Animated Node Network" width="100%">
+</p>
+
 <table width="100%">
   <tr>
     <td width="62%" valign="top">
